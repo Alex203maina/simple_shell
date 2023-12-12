@@ -10,6 +10,7 @@ int main(void)
 {
 	int a = 10;
 	int b = 5;
+	int c;
 
 	c = a + b;
 	printf("The value of c is: %d\n", c);
