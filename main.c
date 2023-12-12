@@ -12,7 +12,7 @@ int main(void)
 	int b = 5;
 
 	c = a + b;
-	return (c);
+	printf("The value of c is: %d\n", c);
 
 	return (0);
 }
